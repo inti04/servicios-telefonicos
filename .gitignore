@@ -1,0 +1,20 @@
+# Compilados de Eclipse
+bin/
+*.class
+
+# Workspace de Eclipse
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Empaquetado (el .jar final se entrega aparte)
+*.jar
+!lib/*.jar
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de Word
+~$*
