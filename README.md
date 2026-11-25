@@ -8,7 +8,7 @@ Autores: Inti y Carli.
 
 ## Abrir en Eclipse
 
-1. `git clone https://github.com/inti04/Servicios-Telef-nicos.git`
+1. `git clone https://github.com/inti04/servicios-telefonicos.git`
 2. En Eclipse: **File → Import → General → Existing Projects into Workspace** y elegir la carpeta clonada.
 3. El proyecto usa JavaSE-1.8, codificación UTF-8 y JUnit 4 (carpeta `test/`).
 
